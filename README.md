@@ -18,28 +18,6 @@ Atuo no desenvolvimento e manutenção de aplicações, implementação de regra
   <img src="https://raw.githubusercontent.com/oracle/apex/refs/heads/master/images/oracle-apex-logo.png" height="45" alt="Oracle APEX" title="Oracle APEX"/>
 </p>
 
-**Oracle APEX • Oracle Database • PL/SQL • SQL • ORDS**
-
-Também trabalho com:
-
-- Interactive Reports e Interactive Grids
-- Dynamic Actions
-- APEX Collections
-- JavaScript integrado ao Oracle APEX
-- REST Data Sources
-- RESTful Services
-- Application Processes
-- Application Items
-- Session State
-- Authorization Schemes
-- Validações e tratamento de erros
-- Manipulação de arquivos BLOB
-- APEX Debug
-- APEXlang
-- Procedures, Functions, Packages e Triggers
-- Views e Sequences
-- Modelagem de dados
-
 ### Desenvolvimento
 
 <p align="left">
@@ -61,8 +39,6 @@ Também trabalho com:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle" title="Oracle SQL Developer"/>
 </p>
-
-**Oracle SQL Developer • Oracle SQL Developer Data Modeler • Oracle Cloud Infrastructure (OCI)**
 
 ---
 
