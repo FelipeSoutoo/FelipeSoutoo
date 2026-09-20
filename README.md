@@ -15,7 +15,7 @@ Atuo no desenvolvimento e manutenção de aplicações, implementação de regra
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle" title="Oracle Database"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/oracle/apex/refs/heads/master/images/oracle-apex-logo.png" height="45" alt="Oracle APEX" title="Oracle APEX"/>
+  <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" title="Oracle APEX"/>
 </p>
 
 ### Desenvolvimento
