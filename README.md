@@ -56,8 +56,6 @@ Também trabalho com:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code" title="Visual Studio Code"/>
 </p>
 
-**JavaScript • HTML • CSS • Git • GitHub • Visual Studio Code**
-
 ### Ferramentas Oracle
 
 <p align="left">
@@ -81,8 +79,6 @@ Também trabalho com:
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
-
-**Python • TypeScript • React • Node.js • PostgreSQL • Inteligência Artificial • RAG**
 
 Atualmente estou ampliando meus conhecimentos em desenvolvimento web moderno e Inteligência Artificial, com interesse especial na integração de **IA generativa e RAG (Retrieval-Augmented Generation)** em aplicações web.
 
