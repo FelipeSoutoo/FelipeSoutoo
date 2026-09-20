@@ -43,14 +43,23 @@ Atuo no desenvolvimento e manutenção de aplicações, implementação de regra
 ### Ferramentas Oracle
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle" title="Oracle SQL Developer"/>
   <img
-  src="https://www.clipartmax.com/png/middle/216-2162261_vector-sql-server-icon-image-oracle-sql-developer-icon.png"
-  width="45"
-  height="45"
-  alt="Oracle SQL Developer"
-  title="Oracle SQL Developer"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    width="45"
+    height="45"
+    alt="Oracle"
+    title="Oracle"
+  />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img
+    src="https://www.clipartmax.com/png/middle/216-2162261_vector-sql-server-icon-image-oracle-sql-developer-icon.png"
+    width="45"
+    height="45"
+    alt="Oracle SQL Developer"
+    title="Oracle SQL Developer"
+  />
 </p>
 
 ---
