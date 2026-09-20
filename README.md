@@ -60,15 +60,6 @@ Atualmente estou ampliando meus conhecimentos em desenvolvimento web moderno e I
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeSoutoo&show_icons=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSoutoo&layout=compact&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="left">
@@ -81,7 +72,3 @@ Atualmente estou ampliando meus conhecimentos em desenvolvimento web moderno e I
 </p>
 
 ---
-
-<p align="center">
-  <i>Desenvolvimento de software, banco de dados e tecnologia transformando problemas em soluções.</i>
-</p>
