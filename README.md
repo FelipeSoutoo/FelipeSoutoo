@@ -46,8 +46,8 @@ Atuo no desenvolvimento e manutenção de aplicações, implementação de regra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle" title="Oracle SQL Developer"/>
   <img
   src="https://www.clipartmax.com/png/middle/216-2162261_vector-sql-server-icon-image-oracle-sql-developer-icon.png"
-  width="50"
-  height="50"
+  width="45"
+  height="45"
   alt="Oracle SQL Developer"
   title="Oracle SQL Developer"
 />
